@@ -2,3 +2,6 @@
 
 # Ma veille métier & technologique
 Ici, les éléments créés dans le cadre de la mise en place d'une **veille métier** d'une part et **technologique** de l'autre
+
+# Mon analyse des tendances de cette veille
+<img width="2309" height="1350" alt="Tableau_bord_veille" src="https://github.com/user-attachments/assets/24c81bdc-d45b-4662-9c6a-06ae76a41f6d" />
